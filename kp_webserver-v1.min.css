@@ -393,7 +393,8 @@
 }
 
 #log .d {
-	color: #0DD
+	/*color: #0DD*/
+	color: #090
 }
 
 #log .c {
@@ -414,6 +415,5 @@
 }
 
 #log {
-	background-color: #c91e1e
-/*	background-color: #1c1c1c */
+	background-color: #1c1c1c 
 }
