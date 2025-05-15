@@ -121,7 +121,7 @@
 }
 
 .markdown-body h1 {
-	font-size: 500px;
+	font-size: 32px;
 	font-weight: 600
 }
 
@@ -414,5 +414,6 @@
 }
 
 #log {
-	background-color: #1c1c1c
+	background-color: #c91e1e
+/*	background-color: #1c1c1c */
 }
